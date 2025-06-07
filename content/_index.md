@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Machine Learning developer and tech enthusiast with a passion for building smart, real-time solutions. Always curious, always improving, and driven by a love for innovation and hands-on creation.
