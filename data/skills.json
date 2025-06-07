@@ -2,8 +2,6 @@
   {
       "grouping":"Architecture",
       "skills":[
-        {"name" : "PC buildings"},
-        {"name" : "Networking"},
         {"name" : "troubleshooting"}
       ]
   },
